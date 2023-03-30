@@ -30,8 +30,9 @@ Porque los gatos tienen un mejor tiempo de ejecución.
 }
 
 ¿que es un terapeuta? .... 1024 gigapeutas. RISAS RISAS
-¿Sabes qué le dice un árbol a otro árbol?
 
+
+¿Sabes qué le dice un árbol a otro árbol?
 ¡Oye, qué pasa tronco!
 
 #wife
@@ -40,7 +41,10 @@ Porque los gatos tienen un mejor tiempo de ejecución.
    margin:0;
 }
 
-¿Por qué el programador CSS se quedó en casa?
+{
+   El otro dia intente ligar con una programadora pero no se deJava
+}
 
+¿Por qué el programador CSS se quedó en casa?
 Porque se sentía marginado.
 
