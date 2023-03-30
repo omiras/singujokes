@@ -3,3 +3,8 @@
    color:white;
    opacity:0.1;
 }
+.chiste
+{
+-Encontré un anuncio de trabajo que requería 8 años de experiencia en Swift.
+-Swift es un lenguaje de programación que salió 3 años atrás.
+}
