@@ -3,7 +3,24 @@
    color:white;
    opacity:0.1;
 }
+¿Por qué los programadores prefieren los gatos a los perros?
+Porque los gatos tienen un mejor tiempo de ejecución.
 
+.chiste
+{
+-Encontré un anuncio de trabajo que requería 8 años de experiencia en Swift.
+-Swift es un lenguaje de programación que salió 3 años atrás.
+}
+
+.DELOREAN {
+
+   z-index:-1955;
+}
+
+.Estudia_FrontEnd {
+
+   Solo sabe cambiar: los Padding;
+}
 
 #kim-kardashian {
    padding-bottom: 9999px;
