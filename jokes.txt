@@ -3,3 +3,5 @@
    color:white;
    opacity:0.1;
 }
+¿Por qué los programadores prefieren los gatos a los perros?
+Porque los gatos tienen un mejor tiempo de ejecución.
