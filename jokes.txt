@@ -4,11 +4,16 @@
    opacity:0.1;
 }
 
+.DELOREAN {
+
+   z-index:-1955;
+}
 
 .Estudia_FrontEnd {
 
    Solo sabe cambiar: los Padding;
 }
+
 #kim-kardashian {
    padding-bottom: 9999px;
 }
