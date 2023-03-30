@@ -3,6 +3,9 @@
    color:white;
    opacity:0.1;
 }
+¿Por qué los desarrolladores front-end odian a los insectos?
+Porque prefieren el código sin bugs.
+
 ¿Por qué los programadores prefieren los gatos a los perros?
 Porque los gatos tienen un mejor tiempo de ejecución.
 
