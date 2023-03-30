@@ -19,3 +19,8 @@
    right:100%;
    margin:0;
 }
+
+¿Por qué el programador CSS se quedó en casa?
+
+Porque se sentía marginado.
+
