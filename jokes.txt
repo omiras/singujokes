@@ -3,3 +3,8 @@
    color:white;
    opacity:0.1;
 }
+
+
+#kim-kardashian {
+   padding-bottom: 9999px;
+}
