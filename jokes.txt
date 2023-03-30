@@ -3,3 +3,9 @@
    color:white;
    opacity:0.1;
 }
+
+
+.Estudia_FrontEnd {
+
+   Solo sabe cambiar: los Padding;
+}
