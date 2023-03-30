@@ -3,3 +3,8 @@
    color:white;
    opacity:0.1;
 }
+#wife
+{
+   right:100%;
+   margin:0;
+}
