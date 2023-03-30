@@ -3,6 +3,12 @@
    color:white;
    opacity:0.1;
 }
+¿Por qué los desarrolladores front-end odian a los insectos?
+Porque prefieren el código sin bugs.
+
+¿Por qué los programadores prefieren los gatos a los perros?
+Porque los gatos tienen un mejor tiempo de ejecución.
+
 .chiste
 {
 -Encontré un anuncio de trabajo que requería 8 años de experiencia en Swift.
@@ -24,8 +30,9 @@
 }
 
 ¿que es un terapeuta? .... 1024 gigapeutas. RISAS RISAS
-¿Sabes qué le dice un árbol a otro árbol?
 
+
+¿Sabes qué le dice un árbol a otro árbol?
 ¡Oye, qué pasa tronco!
 
 #wife
@@ -37,3 +44,7 @@
 {
    El otro dia intente ligar con una programadora pero no se deJava
 }
+
+¿Por qué el programador CSS se quedó en casa?
+Porque se sentía marginado.
+
